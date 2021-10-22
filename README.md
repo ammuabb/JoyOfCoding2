@@ -20,4 +20,19 @@ Question2: Count the frequency of numbers present in a group of numbers.The answ
                             18's: 1
                             and so on...(Note:Output isn't a pattern of even numbers; All numbers are included)
                             
+Day-2
+Question1: Duplicate numbers in array must be removed.
+            Input: An array of integers.
+            Output: An array of integers without duplication.
+            Example: Array={1,2,2,3,4}
+                     O/P: 1 2 3 4
+                     
+                     
+Question2: Given an array of integers, and another integer K. Write a program to find indexes of 2 elements in an array which sum is equal to K.(Two sum problem)
+            Example: Array={5,4,7,3,9,2}
+                     Sum(K)=13
+                     Output: Indices are found at 1 and 4
+                             Indices are found at 4 and 1
+                         
+                            
                       
