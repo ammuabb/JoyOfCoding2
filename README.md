@@ -34,5 +34,13 @@ Question2: Given an array of integers, and another integer K. Write a program to
                      Output: Indices are found at 1 and 4
                              Indices are found at 4 and 1
                          
-                            
+Day-3
+Question1: Given an image,you need to rotate the image so as to see the image properly.
+            Hint: Image is taken as a matrix, hence output is a matrix.
+            
+Question2: Given an array and sum of few numbers in array,write a program that prints the sub array and range of indices whose sum is equal to the sum entered by user.
+            Example: Input: [5,4,7,3,9,2]
+                            Sum=23
+                     Output: [4,7,3,9]
+                             Indices range from 1 to 4
                       
